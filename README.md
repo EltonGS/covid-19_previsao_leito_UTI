@@ -198,4 +198,5 @@ E também agradecer a comunidade que se formou no Discord entre as pessoas reali
 ## Contato
 
 Caso deseje entrar em contato com sugestões, dicas ou somente para conversar sobre Ciência de Dados:
+
 [LinkedIn](https://www.linkedin.com/in/elton-sena/)
