@@ -14,6 +14,7 @@
 6. [Conclusão](#conclusao)
 7. [Agradecimentos](#thanks)
 8. [Referências utilizadas](#refer)
+9. [Contato](#contato)
 
 <a name=apresent></a>
 ## Apresentação
@@ -192,3 +193,9 @@ E também agradecer a comunidade que se formou no Discord entre as pessoas reali
 24. [SciKit Learn - SVC](http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
 
 25. [SciKit Learn - LinearSVC](https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html)
+
+<a name=contato></a>
+## Contato
+
+Caso deseje entrar em contato com sugestões, dicas ou somente para conversar sobre Ciência de Dados:
+[LinkedIn](https://www.linkedin.com/in/elton-sena/)
