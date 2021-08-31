@@ -64,7 +64,7 @@ Esse projeto está dividido em 3 notebooks, conforme a descrição a seguir:
 
 * [**Modelo de Machine Learning**](https://github.com/EltonGS/covid-19_previsao_leito_UTI/blob/main/Notebooks/3_modelos_machine_learning.ipynb): onde serão criados os modelos de Machine Learning para previsão da necessidade de um leito de UTI para os pacientes com Covid-19.
 
-Foi também criada uma apresentação de slides com os pontos principais do projeto que pode ser acessada [AQUI](https://docs.google.com/presentation/d/1-UQsBoBTKKc3f4OF_efm5FsELZEtbwY5KjRta11f9ys/edit?usp=sharing).
+Foi também criada uma **apresentação de slides** com os pontos principais do projeto que pode ser acessada [AQUI](https://docs.google.com/presentation/d/1-UQsBoBTKKc3f4OF_efm5FsELZEtbwY5KjRta11f9ys/edit?usp=sharing) e um **arquivo PDF** com os slides que pode ser visto [AQUI](https://github.com/EltonGS/covid-19_previsao_leito_UTI/blob/main/Covid-19%20-%20Prevendo%20o%20uso%20de%20leitos%20de%20UTI%20com%20Machine%20Learning.pdf).
 
 <a name=dados></a>
 ## Informações sobre os dados
